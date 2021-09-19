@@ -1,0 +1,9 @@
+.app {
+  min-height: 100vh;
+  padding: 3rem;
+}
+
+.title {
+  text-align: center;
+  padding-bottom: 2rem;
+}

@@ -1,0 +1,14 @@
+.questionsContainer {
+  display: flex;
+  align-items: flex-start;
+  overflow: hidden;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.score {
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 2rem;
+}

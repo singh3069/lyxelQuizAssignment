@@ -1,0 +1,57 @@
+[
+  {
+    "id": "9c7ba8fc-e097-11eb-ba80-0242ac130001",
+    "question": "Where is Taj Mahal ?",
+    "options": [
+      { "id": "1", "option": "Kanpur" },
+      { "id": "2", "option": "Rajasthan" },
+      { "id": "3", "option": "Agra" },
+      { "id": "4", "option": "Bhopal" }
+    ],
+    "answerId": "3"
+  },
+  {
+    "id": "9c7ba8fc-e097-11eb-ba80-0242ac130002",
+    "question": "Which is the biggest State in India according to area?",
+    "options": [
+      { "id": "1", "option": "Uttar Pradesh" },
+      { "id": "2", "option": "Rajasthan" },
+      { "id": "3", "option": "West Bengal" },
+      { "id": "4", "option": "Kerla" }
+    ],
+    "answerId": "2"
+  },
+  {
+    "id": "9c7ba8fc-e097-11eb-ba80-0242ac130003",
+    "question": "Where is Red Fort ?",
+    "options": [
+      { "id": "1", "option": "Delhi" },
+      { "id": "2", "option": "Rajasthan" },
+      { "id": "3", "option": "Agra" },
+      { "id": "4", "option": "Lucknow" }
+    ],
+    "answerId": "1"
+  },
+  {
+    "id": "9c7ba8fc-e097-11eb-ba80-0242ac130004",
+    "question": "What is the Capital of India ?",
+    "options": [
+      { "id": "1", "option": "Kanpur" },
+      { "id": "2", "option": "Rajasthan" },
+      { "id": "3", "option": "Agra" },
+      { "id": "4", "option": "Delhi" }
+    ],
+    "answerId": "4"
+  },
+  {
+    "id": "9c7ba8fc-e097-11eb-ba80-0242ac130005",
+    "question": " Who is the Current PM of India ?",
+    "options": [
+      { "id": "1", "option": "Inder Kumar Gujral" },
+      { "id": "2", "option": "Indira Gandhi" },
+      { "id": "3", "option": "Narendra Modi" },
+      { "id": "4", "option": "Manmohan Singh" }
+    ],
+    "answerId": "3"
+  }
+]
